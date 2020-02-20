@@ -1,0 +1,6 @@
+module Pods_WebTest {
+  umbrella header "Pods-WebTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
